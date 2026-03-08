@@ -344,7 +344,7 @@ with st.sidebar:
             st.rerun()
 
     st.markdown("---")
-    st.markdown('<p style="font-size:0.72rem;color:#404060;text-align:center;">©  Results Portal</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:0.72rem;color:#404060;text-align:center;">©  Anand uday prakash</p>', unsafe_allow_html=True)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
